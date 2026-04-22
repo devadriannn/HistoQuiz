@@ -1,0 +1,214 @@
+{
+  "heroes": [
+    {
+      "name": "Jose Rizal",
+      "aliases": ["Dr. Jose Rizal", "Rizal"],
+      "birthPlace": "Calamba, Laguna",
+      "knownFor": ["Noli Me Tangere", "El Filibusterismo", "La Liga Filipina", "Dapitan"],
+      "titles": ["National Hero", "Writer", "Physician"],
+      "clues": ["glasses", "novels", "Luneta monument", "Dapitan"],
+      "trueFacts": [
+        "Jose Rizal wrote Noli Me Tangere.",
+        "Jose Rizal was exiled to Dapitan.",
+        "Jose Rizal was a physician.",
+        "Jose Rizal wrote El Filibusterismo."
+      ],
+      "falseFacts": [
+        "Jose Rizal founded the Katipunan.",
+        "Jose Rizal was known as the Sublime Paralytic.",
+        "Jose Rizal led the Battle of Mactan.",
+        "Jose Rizal was the first President of the Philippines."
+      ],
+      "bio": "Jose Rizal was a writer, physician, and reformist known for Noli Me Tangere and El Filibusterismo."
+    },
+    {
+      "name": "Andres Bonifacio",
+      "aliases": ["Bonifacio", "Supremo"],
+      "birthPlace": "Tondo, Manila",
+      "knownFor": ["Katipunan", "Supremo", "Philippine Revolution"],
+      "titles": ["Father of the Philippine Revolution"],
+      "clues": ["Katipunan", "bolo", "revolution", "Tondo"],
+      "trueFacts": [
+        "Andres Bonifacio founded the Katipunan.",
+        "Andres Bonifacio is called the Supremo.",
+        "Andres Bonifacio is linked to the Philippine Revolution.",
+        "Andres Bonifacio was born in Tondo."
+      ],
+      "falseFacts": [
+        "Andres Bonifacio wrote Noli Me Tangere.",
+        "Andres Bonifacio was exiled to Dapitan.",
+        "Andres Bonifacio was known as Tandang Sora.",
+        "Andres Bonifacio led Mactan against Magellan."
+      ],
+      "bio": "Andres Bonifacio founded the Katipunan and became one of the leading figures of the revolution."
+    },
+    {
+      "name": "Emilio Aguinaldo",
+      "aliases": ["Aguinaldo"],
+      "birthPlace": "Kawit, Cavite",
+      "knownFor": ["First President of the Philippines", "Philippine Independence", "Kawit"],
+      "titles": ["President", "General"],
+      "clues": ["Kawit", "Philippine flag", "independence", "president"],
+      "trueFacts": [
+        "Emilio Aguinaldo became the first President of the Philippines.",
+        "Emilio Aguinaldo is associated with Kawit, Cavite.",
+        "Emilio Aguinaldo proclaimed Philippine independence in Kawit.",
+        "Emilio Aguinaldo was a revolutionary leader."
+      ],
+      "falseFacts": [
+        "Emilio Aguinaldo wrote El Filibusterismo.",
+        "Emilio Aguinaldo was called the Mother of the Katipunan.",
+        "Emilio Aguinaldo authored the Kartilya ng Katipunan.",
+        "Emilio Aguinaldo was known as Plaridel."
+      ],
+      "bio": "Emilio Aguinaldo was a revolutionary leader and the first President of the Philippines."
+    },
+    {
+      "name": "Apolinario Mabini",
+      "aliases": ["Mabini"],
+      "birthPlace": "Tanauan, Batangas",
+      "knownFor": ["Brains of the Revolution", "Sublime Paralytic", "First Philippine Republic"],
+      "titles": ["Statesman", "Political Thinker"],
+      "clues": ["wheelchair", "brains", "revolution", "Batangas"],
+      "trueFacts": [
+        "Apolinario Mabini was called the Brains of the Revolution.",
+        "Apolinario Mabini was also called the Sublime Paralytic.",
+        "Apolinario Mabini served the First Philippine Republic.",
+        "Apolinario Mabini was from Batangas."
+      ],
+      "falseFacts": [
+        "Apolinario Mabini founded the Katipunan.",
+        "Apolinario Mabini defeated Magellan in Mactan.",
+        "Apolinario Mabini wrote La Solidaridad as a newspaper title.",
+        "Apolinario Mabini was known as Tandang Sora."
+      ],
+      "bio": "Apolinario Mabini was a political thinker remembered as the Brains of the Revolution."
+    },
+    {
+      "name": "Antonio Luna",
+      "aliases": ["General Luna", "Antonio Luna"],
+      "birthPlace": "Binondo, Manila",
+      "knownFor": ["Philippine-American War", "General", "Luna Sharpshooters"],
+      "titles": ["General"],
+      "clues": ["general", "uniform", "war", "sharpshooters"],
+      "trueFacts": [
+        "Antonio Luna was a general.",
+        "Antonio Luna is linked to the Philippine-American War.",
+        "Antonio Luna organized the Luna Sharpshooters.",
+        "Antonio Luna is often remembered for military leadership."
+      ],
+      "falseFacts": [
+        "Antonio Luna founded La Liga Filipina.",
+        "Antonio Luna was the wife of Diego Silang.",
+        "Antonio Luna was called the Mother of the Katipunan.",
+        "Antonio Luna was the first President of the Philippines."
+      ],
+      "bio": "Antonio Luna was a brilliant general known for discipline and military leadership."
+    },
+    {
+      "name": "Marcelo H. del Pilar",
+      "aliases": ["Plaridel", "Del Pilar"],
+      "birthPlace": "Bulakan, Bulacan",
+      "knownFor": ["La Solidaridad", "Propaganda Movement", "Plaridel"],
+      "titles": ["Writer", "Journalist", "Reformer"],
+      "clues": ["La Solidaridad", "newspaper", "Plaridel", "Bulacan"],
+      "trueFacts": [
+        "Marcelo H. del Pilar used the pen name Plaridel.",
+        "Marcelo H. del Pilar was connected with La Solidaridad.",
+        "Marcelo H. del Pilar was part of the Propaganda Movement.",
+        "Marcelo H. del Pilar was from Bulacan."
+      ],
+      "falseFacts": [
+        "Marcelo H. del Pilar led the Battle of Mactan.",
+        "Marcelo H. del Pilar was called Supremo.",
+        "Marcelo H. del Pilar was the first President of the Philippines.",
+        "Marcelo H. del Pilar was known as Tandang Sora."
+      ],
+      "bio": "Marcelo H. del Pilar was a reform advocate and writer linked with the Propaganda Movement."
+    },
+    {
+      "name": "Emilio Jacinto",
+      "aliases": ["Jacinto", "Pingkian"],
+      "birthPlace": "Tondo, Manila",
+      "knownFor": ["Kartilya ng Katipunan", "Brains of the Katipunan", "Kalayaan"],
+      "titles": ["Revolutionary", "Writer"],
+      "clues": ["Kartilya", "Katipunan", "brains", "Pingkian"],
+      "trueFacts": [
+        "Emilio Jacinto wrote the Kartilya ng Katipunan.",
+        "Emilio Jacinto is called the Brains of the Katipunan.",
+        "Emilio Jacinto was associated with the Katipunan.",
+        "Emilio Jacinto used the name Pingkian."
+      ],
+      "falseFacts": [
+        "Emilio Jacinto wrote Noli Me Tangere.",
+        "Emilio Jacinto led the Ilocos revolt after Diego Silang.",
+        "Emilio Jacinto was called the Sublime Paralytic.",
+        "Emilio Jacinto was the first President of the Philippines."
+      ],
+      "bio": "Emilio Jacinto was a young revolutionary known as the Brains of the Katipunan."
+    },
+    {
+      "name": "Gabriela Silang",
+      "aliases": ["Gabriela Silang"],
+      "birthPlace": "Ilocos Sur",
+      "knownFor": ["Ilocos revolt", "continued the revolt", "female revolutionary leader"],
+      "titles": ["Revolutionary Leader"],
+      "clues": ["Ilocos", "revolt", "woman leader", "Diego Silang"],
+      "trueFacts": [
+        "Gabriela Silang continued the revolt after Diego Silang's death.",
+        "Gabriela Silang is associated with Ilocos.",
+        "Gabriela Silang is remembered as a revolutionary leader.",
+        "Gabriela Silang is one of the most famous Filipina heroes."
+      ],
+      "falseFacts": [
+        "Gabriela Silang wrote El Filibusterismo.",
+        "Gabriela Silang was called Plaridel.",
+        "Gabriela Silang was the first President of the Philippines.",
+        "Gabriela Silang founded La Liga Filipina."
+      ],
+      "bio": "Gabriela Silang became a famous Filipina revolutionary leader in the Ilocos revolt."
+    },
+    {
+      "name": "Lapu-Lapu",
+      "aliases": ["Lapulapu", "Lapu-Lapu"],
+      "birthPlace": "Mactan",
+      "knownFor": ["Battle of Mactan", "defied Magellan", "Mactan leader"],
+      "titles": ["Warrior Leader"],
+      "clues": ["Mactan", "warrior", "Magellan", "Cebu"],
+      "trueFacts": [
+        "Lapu-Lapu defended Mactan against Magellan.",
+        "Lapu-Lapu is linked to the Battle of Mactan.",
+        "Lapu-Lapu is remembered as an early Filipino hero.",
+        "Lapu-Lapu is associated with Cebu."
+      ],
+      "falseFacts": [
+        "Lapu-Lapu wrote the Kartilya ng Katipunan.",
+        "Lapu-Lapu was a Propaganda Movement writer.",
+        "Lapu-Lapu was called the Supremo.",
+        "Lapu-Lapu proclaimed Philippine independence in Kawit."
+      ],
+      "bio": "Lapu-Lapu is remembered as the Mactan leader who resisted Magellan."
+    },
+    {
+      "name": "Melchora Aquino",
+      "aliases": ["Tandang Sora", "Melchora Aquino"],
+      "birthPlace": "Caloocan",
+      "knownFor": ["Mother of the Katipunan", "Tandang Sora", "support for revolutionaries"],
+      "titles": ["Mother of the Katipunan"],
+      "clues": ["Tandang Sora", "mother", "Katipunan", "revolutionary aid"],
+      "trueFacts": [
+        "Melchora Aquino is known as Tandang Sora.",
+        "Melchora Aquino is called the Mother of the Katipunan.",
+        "Melchora Aquino helped revolutionaries.",
+        "Melchora Aquino is one of the best-known women in Philippine history."
+      ],
+      "falseFacts": [
+        "Melchora Aquino wrote La Solidaridad.",
+        "Melchora Aquino was the first President of the Philippines.",
+        "Melchora Aquino defeated Magellan.",
+        "Melchora Aquino wrote Noli Me Tangere."
+      ],
+      "bio": "Melchora Aquino, also called Tandang Sora, helped Filipino revolutionaries."
+    }
+  ]
+}

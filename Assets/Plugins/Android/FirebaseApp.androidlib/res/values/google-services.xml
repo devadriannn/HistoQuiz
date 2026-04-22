@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">583096310798</string>
+  <string name="google_storage_bucket" translatable="false">histoquiz-16329.firebasestorage.app</string>
+  <string name="project_id" translatable="false">histoquiz-16329</string>
+  <string name="google_api_key" translatable="false">AIzaSyDpueNu3NT16gqm-6iWbMFZzNBtM9f3SxM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpueNu3NT16gqm-6iWbMFZzNBtM9f3SxM</string>
+  <string name="google_app_id" translatable="false">1:583096310798:android:6e2a81ec6ca126c62df05f</string>
+</resources>
